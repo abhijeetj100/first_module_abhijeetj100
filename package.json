@@ -1,0 +1,33 @@
+{
+  "name": "first_module_abhijeetj100",
+  "version": "2.0.0",
+  "description": "A sample first package as a tutorial project.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Running test command\"",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abhijeetj100/first_module_abhijeetj100.git"
+  },
+  "keywords": [
+    "first",
+    "module",
+    "sample",
+    "tutorial",
+    "sample",
+    "trial"
+  ],
+  "bugs": {
+    "url": "https://github.com/abhijeetj100/first_module_abhijeetj100/issues"
+  },
+  "homepage": "https://github.com/abhijeetj100/first_module_abhijeetj100#readme",
+  "author": "abhijeetj100",
+  "license": "ISC"
+}
