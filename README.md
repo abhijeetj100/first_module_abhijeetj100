@@ -1,5 +1,8 @@
 # first_module_abhijeetj100 package
 
-### printMsg() is being exported which run a console.log, check it out!!! 
+### [printMsg()](./src/utils.ts)
+
+### [sayHelloTo()](./src/unicorn.ts)
+### [addTwoNumbers()](./src/utils.ts)
 
 ## Happy Coding :)
