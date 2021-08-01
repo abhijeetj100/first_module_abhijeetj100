@@ -1,6 +1,6 @@
 {
   "name": "first_module_abhijeetj100",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A sample first package as a tutorial project.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
