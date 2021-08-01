@@ -25,7 +25,7 @@ jobs:
       - name: Automated releases for npm packages.
       # You may pin to the exact commit or the version.
       # uses: mikeal/merge-release@fbfd53a737bc7183ddc2f3df82e557c1dd77f21d
-        uses: mikeal/merge-release@v4.0.7
+        uses: mikeal/merge-release@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
